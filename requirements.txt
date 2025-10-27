@@ -1,1 +1,7 @@
-
+streamlit
+langchain
+langchain-openai
+faiss-cpu
+pypdf
+huggingface_hub
+openai
