@@ -1,7 +1,13 @@
+# --- Core Libraries ---
 streamlit
-langchain
-langchain-openai
-faiss-cpu
-pypdf
-huggingface_hub
 openai
+huggingface_hub
+
+# --- LangChain Libraries ---
+langchain
+langchain-community
+langchain-openai
+
+# --- Document & Vector Store Libraries ---
+pypdf
+faiss-cpu
