@@ -20,7 +20,7 @@ def download_papers_from_hf():
     และคืนค่า path ของโฟลเดอร์ที่เก็บไฟล์
     """
     # *** แก้ไขตรงนี้: ใส่ชื่อ Dataset ของคุณ ***
-    repo_id = "YourHuggingFaceUsername/your-dataset-name" # เช่น "john-doe/my-research-papers-dataset"
+    repo_id = "xkomgritx/my-research-papers-dataset" # เช่น "john-doe/my-research-papers-dataset"
     
     local_dir = "./my_research_papers_from_hf"
     if not os.path.exists(local_dir):
