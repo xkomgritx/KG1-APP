@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# KG-APP
 
-Description of the app ...
+This app is for answering questions about the research of Assoc. Prof. Dr. Komgrit Eawsakul.
 
 ## Demo App
 
